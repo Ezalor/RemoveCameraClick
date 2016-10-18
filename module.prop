@@ -1,0 +1,9 @@
+id=EmojiReplace
+name=删除拍照和截图声音
+version=v1
+versionCode=1
+author=Ezalor
+description=删除 camera_click.ogg。
+support=
+donate=
+cacheModule=false
