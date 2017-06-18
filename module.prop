@@ -1,7 +1,7 @@
 id=RemoveCameraClick
 name=删除拍照和截图声音
 version=v3
-versionCode=23
+versionCode=4
 author=Ezalor
 description=删除 camera_click.ogg。
 template=3
